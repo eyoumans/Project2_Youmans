@@ -1,2 +1,2 @@
-# Project2_Youmans
-Project2_Youmans
+# JSPlatformer
+JS Platformer for DIG 3480C
